@@ -1,3 +1,4 @@
+//app.component.ts, 직접 타이핑해보던 script파일
 import { Component } from '@angular/core';
 export class Hero {
   id: number;
